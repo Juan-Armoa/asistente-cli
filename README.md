@@ -14,5 +14,5 @@ I built this project to experiment with modular Python architecture, API integra
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Juan-Armoa/asistente-cli.git](https://github.com/Juan-Armoa/asistente-cli.git)
+   git clone https://github.com/Juan-Armoa/asistente-cli.git
    cd asistente-cli
